@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vanfields
+- 👀 I’m interested in ...trying some new things
+- 🌱 I’m currently learning ... basic coding
+- 💞️ I’m looking to collaborate on ...automated QA testing
